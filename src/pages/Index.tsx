@@ -7,7 +7,7 @@ import { Avatar } from '@/components/ui/avatar';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
-import { Briefcase, Users, Clock, ChevronRight } from 'lucide-react';
+import { Briefcase, Users, Clock, ChevronRight, X, Check } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 const Index = () => {
